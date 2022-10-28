@@ -64,7 +64,7 @@ void MainWindow::on_pushButton_clicked()
             int nInputStrLen = wcslen(path);
             int nOutputStrLen = WideCharToMultiByte(CP_ACP, 0, path, nInputStrLen, NULL, 0, 0, 0) + 2;
             char* data = new char[nOutputStrLen];
-            if (data == nullptr)
+            if (data != nullptr)
             {
                 memset(data, 0x00, nOutputStrLen);
                 WideCharToMultiByte(CP_ACP, 0, path, nInputStrLen, data, nOutputStrLen, 0, 0);
