@@ -35,7 +35,7 @@ After searching a lot, I get a solution. It is not hard to open a multi-selectio
 
 All details are given in the repository, the folder named **FolderDialog**.
 
-Refer: (Common Item Dialog)[https://learn.microsoft.com/en-us/windows/win32/shell/common-file-dialog?redirectedfrom=MSDN]
+Refer: Common Item Dialog: https://learn.microsoft.com/en-us/windows/win32/shell/common-file-dialog?redirectedfrom=MSDN
 
 # Contact me
 
