@@ -79,9 +79,5 @@ void MainWindow::on_pushButton_clicked()
             delete[] data;
          }
     }
-    else
-    {
-        qDebug() << "error: failed to initialize the IFileOpenDialog";
-    }
 }
 
