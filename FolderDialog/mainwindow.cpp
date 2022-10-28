@@ -75,6 +75,8 @@ void MainWindow::on_pushButton_clicked()
 
             QString folderName = QString::fromLocal8Bit(data);
             qDebug() << folderName;
+            
+            delete[] data;
          }
     }
     else
