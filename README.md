@@ -39,6 +39,6 @@ All details are given in the repository, the folder named **FolderDialog**.
 
 I have just learned Qt programming for about one year, I'm glad you gave me some advice for the code or other.
 
-If you want, you can contact me by email: 503343831@qq.com or junweiwang1030@gmail.com.
+If you want, you can contact me by email: 503343831@qq.com or wangjunweiwang1030@gmail.com.
 
 It's my pleasure.
