@@ -1,7 +1,7 @@
 # Introduction
 This is an implement of multi-selection folder dialog using windows api, which can be used in Qt program.
 
-It is surprise that there is no function select folders and return the paths of folders by class QFileDialog in Qt, My Qt version in use is Qt 5.12.11.
+It is surprise that there is no function to select folders and return the paths of folders by class QFileDialog in Qt, My Qt version in use is Qt 5.12.11.
 
 I do not know that if this feature is available in the later version. I hope it.
 
